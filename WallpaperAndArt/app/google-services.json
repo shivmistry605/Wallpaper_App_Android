@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162268346865",
+    "firebase_url": "https://mywallpaperapp-b591f.firebaseio.com",
+    "project_id": "mywallpaperapp-b591f",
+    "storage_bucket": "mywallpaperapp-b591f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162268346865:android:5a02c49eba4b5271de6c50",
+        "android_client_info": {
+          "package_name": "com.kasperstore.wallpaperart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162268346865-v5j4dkfra4dgi24vugpu2estsf45k1l4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kasperstore.wallpaperart",
+            "certificate_hash": "594ed945249a084456dbdeaf31cf083d62f89239"
+          }
+        },
+        {
+          "client_id": "162268346865-btrvmkputkr2m9d7q1ltn49bkqb8v99c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCnkMj5a-qXYy5kCYsTGmN9eIe-nB2KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162268346865-btrvmkputkr2m9d7q1ltn49bkqb8v99c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true">
+        <ImageView
+            android:id="@+id/image_view"
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:background="@drawable/ic_tease"/>
+        <TextView
+            android:id="@+id/text_view_name"
+            android:layout_width="200dp"
+            android:layout_marginTop="5dp"
+            android:textStyle="bold"
+            android:layout_height="wrap_content"
+            android:text="Yellow Hellow"
+            android:textSize="28sp"
+            android:textAlignment="center"/>
+        <TextView
+            android:id="@+id/text_view_email"
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content"
+            android:text="login@email.com"
+            android:textSize="14sp"
+            android:textAlignment="center"/>
+        <TextView
+            android:id="@+id/text_view_logout"
+            android:layout_width="200dp"
+            android:layout_marginTop="25dp"
+            android:layout_height="wrap_content"
+            android:text="@string/logout"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:drawableLeft="@drawable/ic_logout"/>
+    </LinearLayout>
+
+</RelativeLayout>

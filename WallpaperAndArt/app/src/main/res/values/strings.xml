@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wallpaper &amp; Art</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_settings">Settings</string>
+    <string name="string_not_signed_in">Ooops!!! You need to sign in first...</string>
+    <string name="logout">Logout</string>
+</resources>
